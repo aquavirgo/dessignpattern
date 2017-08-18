@@ -1,8 +1,9 @@
 package designpattern.obserwator;
 
 import java.util.ArrayList;
+import java.util.Observable;
 
-public class DanePogodowe implements Podmiot {
+public class DanePogodowe extends Observable {
 
     private ArrayList obserwatorzy;
     private float temperatura;
@@ -13,7 +14,7 @@ public class DanePogodowe implements Podmiot {
     DanePogodowe(){
         obserwatorzy = new ArrayList();
     }
-
+/*
     @Override
     public void zarejestrujObserwatora(Obserwator o) {
         obserwatorzy.add(o);
@@ -34,9 +35,11 @@ public class DanePogodowe implements Podmiot {
             obs.aktualizacja(temperatura,wilgotnosc,cisnienie);
         }
     }
-
+*/
     public void odczytZmiana(){
-        powiadomObserwatorow();
+        //powiadomObserwatorow();
+setChanged();
+notifyObservers();
     }
 
     public void ustawOdczyt(float temperatura, float wilgotnosc, float cisnienie){
@@ -44,5 +47,16 @@ public class DanePogodowe implements Podmiot {
         this.wilgotnosc=wilgotnosc;
         this.cisnienie=cisnienie;
         odczytZmiana();
+    }
+
+public float pobierzTemperatur(){
+        return temperatura;
+}
+    public float pobierzCisnienie(){
+        return cisnienie;
+    }
+
+    public float pobierzWilgotnos(){
+        return wilgotnosc;
     }
 }
