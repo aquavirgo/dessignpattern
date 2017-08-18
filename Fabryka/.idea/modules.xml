@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fabryka.iml" filepath="$PROJECT_DIR$/.idea/modules/Fabryka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fabryka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fabryka_main.iml" group="Fabryka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fabryka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fabryka_test.iml" group="Fabryka" />
+    </modules>
+  </component>
+</project>
