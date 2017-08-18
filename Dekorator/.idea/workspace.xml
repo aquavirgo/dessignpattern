@@ -17,20 +17,27 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Napoj.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/Napoj.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,8 +46,8 @@
       <file leaf-file-name="SkladnikDekorator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/SkladnikDekorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -49,15 +56,9 @@
       <file leaf-file-name="BitaSmietana.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/BitaSmietana.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,17 +66,9 @@
       <file leaf-file-name="Czekolada.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/Czekolada.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,19 +76,9 @@
       <file leaf-file-name="MleczkoSojowe.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/MleczkoSojowe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,8 +86,8 @@
       <file leaf-file-name="StarCafe.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/StarCafe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            <state relative-caret-position="70">
+              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,17 +95,32 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bezkofeinowa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/Bezkofeinowa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="StarCafeSpecial.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/StarCafeSpecial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,14 +128,9 @@
       <file leaf-file-name="MocnoPalona.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/MocnoPalona.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -449,14 +442,15 @@
         <option value="$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/Czekolada.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/decorator/SkladnikDekorator.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/BitaSmietana.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/decorator/Napoj.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_wzorrg.zip/src/headfirst/decorator/starbuzz/Soy.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/MleczkoSojowe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designpattern/decorator/Napoj.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/decorator/StarCafe.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -528,6 +522,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="decorator" type="462c0819:PsiDirectoryNode" />
               <item name="napoj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dekorator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dekorator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="SkladnikDekorator.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -670,18 +673,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -710,65 +713,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/Bezkofeinowa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/Espresso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/MocnoPalona.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/SkladnikDekorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/Napoj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,69 +755,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/StarCafeSpecial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/BitaSmietana.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/Czekolada.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/dodatki/MleczkoSojowe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/Napoj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/napoj/Bezkofeinowa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/decorator/StarCafe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        <state relative-caret-position="70">
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

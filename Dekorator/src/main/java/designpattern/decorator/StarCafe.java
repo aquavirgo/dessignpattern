@@ -30,10 +30,9 @@ public class StarCafe {
 
 
         Napoj napoj4 = new StarCafeSpecial();
-        napoj4.ustawWielkosc(DUZY);
+napoj4.ustawWielkosc(DUZY);
         napoj4 = new Czekolada(napoj4);
         napoj4=new BitaSmietana(napoj4);
-
         napoj4=new MleczkoSojowe(napoj4);
 
         System.out.println(napoj4.pobierzOpis()+ "  " + napoj4.koszt()+ " zl");

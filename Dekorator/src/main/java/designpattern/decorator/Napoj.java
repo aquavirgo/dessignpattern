@@ -1,3 +1,4 @@
+
 package designpattern.decorator;
 
 public abstract class Napoj {
