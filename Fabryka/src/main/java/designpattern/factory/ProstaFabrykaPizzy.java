@@ -1,5 +1,8 @@
 package designpattern.factory;
 
+import designpattern.factory.rodzajepizz.Pepperoni;
+import designpattern.factory.rodzajepizz.SerowaPizza;
+
 public class ProstaFabrykaPizzy {
     public Pizza utworzPizza(String type){
 
